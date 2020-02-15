@@ -13,7 +13,7 @@ library.add(faChevronDown);
 function LandingHeader(props){
   return (
     <div className="LandingHeader parallax">
-      <img src="images/cgicons/newCB.png"/>
+      <img src="../../images/cgicons/newCB.png"/>
       <a href="#about">
       <div className="arrow" id="arr">
         <FontAwesomeIcon icon={faChevronDown} />
